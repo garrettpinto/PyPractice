@@ -1,5 +1,7 @@
 Brushing up 
 
+< details open>
+<br>
 ## Language Essentials
 -Print()  
 -Variables  
@@ -13,7 +15,9 @@ Brushing up
 -For and While Loops  
 -Tuples  
 -Dictionaries  
--Specialty Dictionaries  
+-Specialty Dictionaries 
+</details>  
+
 ## Object-Oriented Programming
 -Objects  
 -Inheritance Super  
