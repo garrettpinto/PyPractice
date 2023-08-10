@@ -1,6 +1,6 @@
 Brushing up 
 
-< details open>
+<details open>
 <br>
 ## Language Essentials
 -Print()  
