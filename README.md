@@ -1,6 +1,7 @@
 Brushing up 
 
-<Essentials open>
+<details open>
+<summary>Essentials</summary>
 <br>
 
 -Print()   
