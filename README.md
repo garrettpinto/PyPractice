@@ -1,9 +1,6 @@
 Brushing up 
 
-<details open>
-<summary>Essentials</summary>
-<br>
-
+## Essentials
 -Print()   
 -Variables   
 -Numeric Variable Operations    
@@ -17,7 +14,6 @@ Brushing up
 -Tuples    
 -Dictionaries    
 -Specialty Dictionaries   
-</details>  
 
 ## Object-Oriented Programming
 -Objects  
