@@ -1,0 +1,112 @@
+Language Essentials
+Print(): Create a program that takes user input and prints a formatted output.
+
+Variables: Write a script that prompts the user for their name and age, and then displays a personalized message.
+
+Numeric Variable Operations: Build a calculator application that performs basic arithmetic operations on user input.
+
+Strings, Bytes, and Bytearrays: Create a program that encrypts and decrypts text using a simple encryption algorithm.
+
+Slicing Strings: Write a script that extracts specific information (like names or dates) from a list of strings.
+
+Creating and Using Functions: Develop a set of functions to calculate factorial, Fibonacci sequence, and prime numbers.
+
+Control Statements (if, elif, and else): Build a program that simulates a simple text-based adventure game with branching storylines.
+
+List Methods: Create a to-do list application that allows users to add, delete, and display tasks.
+
+Functions for Lists: Implement sorting and searching functions for a list of numbers.
+
+For and While Loops: Write a program that generates multiplication tables using loops.
+
+Tuples: Design a program that simulates a card deck and deals hands of cards using tuples.
+
+Dictionaries: Develop a dictionary-based English-to-French translator.
+
+Specialty Dictionaries: Create a program that stores and retrieves passwords using a dictionary.
+
+Object-Oriented Programming
+Objects: Build a basic class hierarchy for different types of vehicles with shared and specific attributes.
+
+Inheritance Super: Extend the vehicle hierarchy to include specific vehicle types like cars, motorcycles, and bicycles.
+
+Inheriting and Extending Built-in Object: Create a custom sequence class that extends the capabilities of a list.
+
+Magic Dunders: Implement custom string representation and comparison methods for a class representing a book.
+
+Attribute Access: Develop a class that tracks the access frequency of its attributes.
+
+Executable Attributes: Build a script that reads data from a CSV file and performs specific actions based on the data.
+
+Name Mangling: Explore name mangling by creating a class with private attributes and methods.
+
+Attribute Privacy: Create a class that demonstrates encapsulation and access control using private attributes.
+
+Object Comparison Operations: Design a class to compare two dates and determine which one is chronologically earlier.
+
+Advanced Exception Handling: Write a program that handles exceptions gracefully while parsing and processing user data.
+
+Object Iteration: Implement a class that allows iterating over the Fibonacci sequence up to a specified term.
+
+Object Instantiation: Develop a class that represents a cooking recipe and includes methods for preparation.
+
+Dataclasses and NamedTuples: Create a program using dataclasses or namedtuples to store and manage contact information.
+
+Unit Testing and Packaging
+Unit Testing: Write unit tests for a calculator application to ensure its arithmetic operations are accurate.
+
+Building Packages: Create a package that contains utility functions for working with dates and times.
+
+PIP Installable Packages: Publish your date/time utility package on the Python Package Index (PyPI).
+
+Understanding Package Imports: Build a program that demonstrates importing functions from different modules within a package.
+
+Absolute vs. Relative Imports: Experiment with importing modules using both absolute and relative import paths.
+
+Circular References: Create two classes that reference each other and explore how circular references can be managed.
+
+Argument Packing: Develop a function that accepts a variable number of arguments and returns their sum.
+
+Defense
+File Input/Output: Write a program that reads a text file, processes its contents, and writes the result to a new file.
+
+Regular Expressions: Build a script that validates and sanitizes user input using regular expressions.
+
+Log File Analysis: Analyze a log file and extract relevant information like error messages or timestamps.
+
+Packet Analysis: Explore packet capture data and write a program to extract and analyze network packet information.
+
+Forensics
+Carving Binary Data with Struct: Create a tool that carves specific binary structures from a raw data file using the struct module.
+
+Reading from Windows Registry: Write a script to extract specific information from the Windows Registry, such as installed software.
+
+Offense
+Socket Communications: Develop a client-server chat application using socket programming.
+
+Exception/Error Handling: Create a program that simulates different error scenarios and demonstrates error handling techniques.
+
+Process Execution: Build a script that launches and communicates with external processes, like launching applications.
+
+Building Standalone Executable: Package a simple Python script as a standalone executable using tools like PyInstaller or cx_Freeze.
+
+Blocking/Non-Blocking Sockets: Create a program that demonstrates both blocking and non-blocking socket communication.
+
+Advanced
+Logging: Develop a logging system for a project that records different levels of events and outputs them to a file.
+
+Decorators: Implement a set of decorators to measure the execution time of functions and log their calls.
+
+Python Injection Attacks: Design a program that simulates different types of code injection attacks and demonstrates their effects.
+
+Command Line Automation: Build a command-line tool that automates repetitive tasks, like batch image resizing.
+
+Context Manager: Create a context manager that ensures proper file closure after reading from or writing to a file.
+
+Serialization: Write a program that serializes and deserializes Python objects using JSON or pickle.
+
+Concurrency with Multithreading: Design a program that uses multithreading to perform parallel execution of tasks.
+
+Concurrency with Multiprocessing: Develop a script that utilizes multiprocessing to process multiple tasks concurrently.
+
+Time Stamps and Time Zones: Create a utility that converts timestamps between different time zones and formats.
