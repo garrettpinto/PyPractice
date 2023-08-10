@@ -1,21 +1,21 @@
 Brushing up 
 
-<details open>
+<Essentials open>
 <br>
-## Language Essentials
--Print()  
--Variables  
--Numeric Variable Operations  
--Strings, Bytes, and Bytearrays  
--Slicing Strings  
--Creating and Using Functions  
--Control Statements (if, elif, and else)  
--List Methods  
--Functions for Lists  
--For and While Loops  
--Tuples  
--Dictionaries  
--Specialty Dictionaries 
+
+-Print()   
+-Variables   
+-Numeric Variable Operations    
+-Strings, Bytes, and Bytearrays    
+-Slicing Strings    
+-Creating and Using Functions    
+-Control Statements (if, elif, and else)    
+-List Methods    
+-Functions for Lists    
+-For and While Loops    
+-Tuples    
+-Dictionaries    
+-Specialty Dictionaries   
 </details>  
 
 ## Object-Oriented Programming
